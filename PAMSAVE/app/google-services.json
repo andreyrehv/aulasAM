@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470035275959",
+    "firebase_url": "https://androidpam-5b064.firebaseio.com",
+    "project_id": "androidpam-5b064",
+    "storage_bucket": "androidpam-5b064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470035275959:android:91218b38c88fa645",
+        "android_client_info": {
+          "package_name": "com.eteczl.androidpam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470035275959-fv3gbob5s9nhnbgupbo4gq5hvtjlqcfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eteczl.androidpam",
+            "certificate_hash": "f1597f572188b0fb43dd37ef49e962d31afe86dd"
+          }
+        },
+        {
+          "client_id": "470035275959-cuglv5jkr75rui5u9kuh6143dpsqblb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIgF2sTNrsu1H3d3bnhpROfzqISwy2Bcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470035275959-cuglv5jkr75rui5u9kuh6143dpsqblb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
